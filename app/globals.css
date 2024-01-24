@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    --line-color: #2e3a54;
+  }
+  
+  html.dark {
+    --line-color: rgba(171, 0, 0, 0.2);
+  }
+  
+  .borderBlack {
+    @apply border border-black/10;
+  }
