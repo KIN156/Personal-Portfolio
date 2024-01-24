@@ -20,9 +20,9 @@ export default function About() {
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
         
-    Hello! I am Kinjalkumari Dhimmar, a recent graduate from Centennial College in Toronto. 
+    Hello. I am Kinjalkumari Dhimmar, a recent graduate from Centennial College in Toronto. 
 
-    Originally from India, I hold a <span className="font-bold">bachelor's degree</span> in Computer Engineering. My journey in the world of technology began with hands-on experience as a <span className="font-bold">Python and web developer</span> at Infusion Infotech in India, where I contributed to projects for over a year.
+    Originally from India, I hold a <span className="font-bold">bachelors degree</span> in Computer Engineering. My journey in the world of technology began with hands-on experience as a <span className="font-bold">Python and web developer</span> at Infusion Infotech in India, where I contributed to projects for over a year.
 
   Passionate about crafting beautiful and responsive websites, I thrive on utilizing various frameworks to bring creativity to the digital realm. One of my favorites is <span className="font-bold">Django</span>, a powerful Python framework, which I use to build dynamic and feature-rich web applications.
       </p>
@@ -35,7 +35,7 @@ export default function About() {
       
       <p className="mb-3"> <span>For a glimpse into my painting journey, feel free to explore my Instagram.</span> </p>
       
-      <p className="mb-3">Let's connect and share the joy of technology and art!</p>
+      <p className="mb-3">Lets connect and share the joy of technology and art.</p>
 
       
     
